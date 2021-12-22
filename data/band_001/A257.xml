@@ -1,0 +1,62 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">A257.</title><title type="sub"><persName role="sender">Karl</persName> an <persName role="recipient">Ferdinand</persName>, <date notBefore="1526-11-30" notAfter="1526-11-30" when="1526-11-30">1526 November 30</date>, <placeName>Granada</placeName>.</title><author>Karl</author></titleStmt><editionStmt><edition><date>2015-11-26</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document </p></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName>Karl</persName><settlement>Granada</settlement><date notBefore="1526-11-30" notAfter="1526-11-30" when="1526-11-30">1526 November 30</date></correspAction><correspAction type="received"><persName>Ferdinand</persName></correspAction></correspDesc></profileDesc><encodingDesc><appInfo><application ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2021-11-26T08:21:33Z</date><name>Pitzer Doris</name></change></listChange></revisionDesc></teiHeader><text><body><div type="letter_header"><p><hi rend="bold">A257.</hi></p><table rend="rules"><row><cell><hi rend="italic">Karl an Ferdinand.</hi></cell><cell><hi rend="italic">1526 November 30. Granada.</hi></cell></row></table></div><div type="regest_de"><p rend="Regest Deutsch">Sendet Antonio de Mendoza mit den Briefen betreffs Böhmens und Ungarns. Mendozas Aufgabe ist es, F zu gehorchen.</p></div><div type="regest_en"><p rend="Regest Englisch">Is sending Antonio de Mendoza to deliver the letters regarding Bohemia. Mendoza must follow F's orders.</p></div><div type="archive_desc"><p rend="Archiv- und Druckvermerk">(W) Wien, St.-A. Belgica PA 7. Undatiertes Konzept.</p><p rend="Archiv- und Druckvermerk">(W<hi rend="superscript">1</hi>) Ebenda, Hs. B. 595 I, Bl. 30. Kopie.</p><p rend="Archiv- und Druckvermerk">Druck: Familienkorrespondenz Bd. 1, Nr. 257, S. 499-500.</p></div><div type="transcription"><p>Mon bon frere, ensuivant ce que vous ai nagueres escript, j’envoie devers vous le present pourteur, don <persName resp="Abel_Laura" key="Mendoza, Antonio de">Anthonio de Mendoça</persName>, avec aultres lectres pour voz <index resp="Abel_Laura" key="Ungarn">affaires de Hongrie</index> et <index resp="Abel_Laura" key="Böhmen">Boheme</index>, telles que verrez. J’ai ordonné aud. don Anthonio de se conduire entierement, selon que vous lui commanderez, et ne lui ai voulsu bailler autre instruction si non de vous obeir comme à moi-mesmes. Et pour ce qu’estes sur le lieu et sçaurez bien congnoistre ce que vous est le plus necessaire au bien de voz affaires, m’a semblé mieulx remectre le tout à vous. Led. don Anthonio vous dira de mes nouvelles, parquoi ferai fin. Atant pour ceste fois, priant dieu que, mon bon frere, etc.</p><p>De <placeName resp="Abel_Laura" key="Granada">Granade</placeName>, le dernier jour de nouvembre a<hi rend="superscript">o</hi> 26.</p></div></body><back><listPerson><person xml:id="mendoza-antonio-de">
+               <persName>Mendoza, Antonio de</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 30, Granada.<ptr target="docs:A257.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 25, Granada.<ptr target="docs:A255.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            </listPerson><listPlace><place xml:id="granada">
+               <placeName>Granada</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 30, Granada.<ptr target="docs:A257.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 August 27, Speier.<ptr target="docs:A228.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 25, Granada.<ptr target="docs:A255.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Juli 27, Granada.<ptr target="docs:A216.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 23, Granada.<ptr target="docs:A252.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 23, Granada.<ptr target="docs:A252.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Oktober 4, Granada.<ptr target="docs:A243.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Juli 28, Granada.<ptr target="docs:A218.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 29, Granada.<ptr target="docs:A256.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            </listPlace></back></text></TEI>

@@ -1,0 +1,32 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ortsregister</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listPlace>
+            {% for key, value in objects.items() %}
+            <place xml:id="{{ key|slugify }}">
+               <placeName>{{ key }}</placeName>
+               <listEvent>{% for x in value %}
+                  <event type="mentioned">
+                     <label>{{ x[1] }}<ptr target="docs:{{ x[2] }}"/></label>
+                  </event>
+                  {%- endfor %}
+               </listEvent>
+            </place>
+            {%- endfor %}
+         </listPlace>
+      </body>
+  </text>
+</TEI>

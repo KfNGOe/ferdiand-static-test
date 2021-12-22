@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">A1.</title><title type="sub"><persName role="sender">Maximilian I.</persName> an <persName role="recipient">Ferdinand</persName>, <date notBefore="1514-07-21" notAfter="1514-07-21" when="1514-07-21">1514 Juli 21</date>, <placeName>Gmunden</placeName>.</title><author>Maximilian I.</author></titleStmt><editionStmt><edition><date>2015-07-09</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document </p></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName>Maximilian I.</persName><settlement>Gmunden</settlement><date notBefore="1514-07-21" notAfter="1514-07-21" when="1514-07-21">1514 Juli 21</date></correspAction><correspAction type="received"><persName>Ferdinand</persName></correspAction></correspDesc></profileDesc><encodingDesc><appInfo><application ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2021-11-26T08:21:15Z</date><name>LAFERL, Christopher</name></change></listChange></revisionDesc></teiHeader><text><body><div type="letter_header"><p><hi rend="bold">A1.</hi></p><table rend="rules"><row><cell><hi rend="italic">Maximilian I. an Ferdinand.	</hi></cell><cell><hi rend="italic">1514 Juli 21. Gmunden.</hi></cell></row></table></div><div type="regest_de"><p rend="Regest Deutsch">Dankt für F’s Brief. Ist erfreut, von Gabriel von Horti über F’s Ehrfurcht gegen den katholischen König und die Königin zu hören. Soll in diesen Gefühlen fortfahren.</p></div><div type="regest_en"><p rend="Regest Englisch">Maximilian thanks F for his letter. He has happily learned from Gabriel von Horti that F reveres the Catholic King and Queen. F should continue with this sentiment.</p></div><div type="archive_desc"><p rend="Archiv- und Druckvermerk">Wien, St.-A Maximiliana, 25<hi rend="superscript">a</hi>. Konzept, überschrieben <hi rend="italic">Max </hi>und an der Seite <hi rend="italic">Infanti Don Ferdinando</hi>.</p><p rend="Archiv- und Druckvermerk">Druck: Familienkorrespondenz Bd. 1, Nr. 1, S. 1-2.</p></div><div type="transcription"><p>Ser<hi rend="superscript">me</hi> infans, fili noster car<hi rend="superscript">me</hi>, salutem et nostram paternam benedictionem. Jucundissimas nobis tuas attulit litteras honorabilis <persName resp="Laferl_Christopher" key="Orti, Gabriel von">Cabriel de Horti</persName>, capellanus ser<hi rend="superscript">mi</hi> regis fratris nostri Catholici, et late <persName resp="Christopher_F._Laferl" key="Maximilian I., Kaiser">nobis </persName>retulit et prosperam valetudinem et faelices successus tuos, quos tibi semper omnipotens secundet et adaugeat, fili car<hi rend="superscript">me</hi>, retulit etiam nobis venerationem et obsequium, quem exhibes ser<hi rend="superscript">mis</hi> <persName resp="Christopher_F._Laferl" key="Ferdinand II., der Katholische, König von Aragón">regi </persName>et <persName resp="Christopher_F._Laferl" key="Isabella die Katholische, Königin von Kastilien">regine</persName>, parentibus tuis observantissimus, quod nobis gratissimum fuit. Hortamur te, ut in hoc studio semper persistas et, sicuti in te crescit aetas, ita etiam adaugeatur affectus et observantia erga ipsos, sicuti latius verbis nostris hortabitur te idem Cabriel et tibi prosperos successus nostros referet. Non desistes autem, fili car<hi rend="superscript">me</hi>, nos continue de incolumitate tua per tuas admonere et eosdem<hi rend="superscript">a</hi>) ser<hi rend="superscript">mos</hi> parentes colere, et omnipotens prosperabitur omnes gresus tuos, qui te nobis hospitem servet, car<hi rend="superscript">me</hi> fili.</p><p>Datum <placeName resp="Laferl_Christopher" key="Gmunden">Gmunden</placeName><hi rend="superscript">b</hi>), die 21. juli anno 1514.</p></div><div type="commentary"><p rend="Kommentar">a) <hi rend="italic">par</hi> ausgestrichen. – b) von <hi rend="italic">Gmunden </hi>an von anderer Hand und Tinte hinzugefügt.</p><p rend="Kommentar">Der Überbringer dieses Schreibens, Gabriel Orti, war offenbar an Maximilian I. abgefertigt worden, um den Kaiser über den Stand der Verhandlungen mit <index resp="Christopher_F._Laferl" key="Frankreich">Frankreich </index>betreffs der <index resp="Christopher_F._Laferl" key="Heirat, F mit Renée de France">Vermählung</index><seg rend="italic"/> des Infanten Ferdinand mit der Prinzessin <persName resp="Christopher_F._Laferl" key="Renée (Renata) de France, spätere Herzogin von Ferrara">Renata</persName> zu informieren. Dies geht auch daraus hervor, dass Maximilian gleichzeitig an <persName resp="Christopher_F._Laferl" key="Quintana, Pedro de, Sekretär Ferdinands des Katholischen">Petrus Quintana</persName>, den eigentlichen Unterhändler in dieser Angelegenheit, ein Schreiben richtete, worin er erwähnt, dass ihm Orti Nachrichten überbracht habe über seine ,<hi rend="italic">bonas et prudentes actiones, quas pro ser</hi><hi rend="italic superscript">mo</hi><hi rend="italic"> fratre nostro et pro nobis in Galliis egisti, et que ante ea comprobavimus, nunc autem maxime laudamus, et gratanter accepimus ofitia tua, hortantes te, ut in eis continue persistas‘</hi> (ebenda, Konzept). Und vom selben Tage rühren Konzepte von Briefen des Kaisers an Ferdinand den Katholischen, an die Königin <persName resp="Christopher_F._Laferl" key="Germaine de Foix, Königin von Aragón, zweite Frau Ferdinands des Katholischen ">Germaine</persName> und an <persName resp="Christopher_F._Laferl" key="Johanna von Kastilien, Gattin Philipps I. („des Schönen“), „Johanna die Wahnsinnige“, Königin von Kastilien (1504-1555)">Johanna von Kastilien</persName>.</p><p rend="Kommentar">Über die Heiratsverhandlungen vgl. Bauer, S. 16 ff.</p></div></body><back><listPerson><person xml:id="germaine-de-foix-konigin-von-aragon-zweite-frau-ferdinands-des-katholischen">
+               <persName>Germaine de Foix, Königin von Aragón, zweite Frau Ferdinands des Katholischen</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1516 Februar 15, Brüssel.<ptr target="docs:A005.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Juli 21, Gmunden.<ptr target="docs:A001.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="maximilian-i-kaiser">
+               <persName>Maximilian I., Kaiser</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A102.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Oktober 13, Innsbruck.<ptr target="docs:A002.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta (Instruktion für Claude Bouton), 1523 Mai 25, Innsbruck.<ptr target="docs:A038.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta (Instruktion für Claude Bouton), 1523 Mai 25, Innsbruck.<ptr target="docs:A038.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1521 September 1, Brüssel.<ptr target="docs:A016.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Dezember 18, Nürnberg.<ptr target="docs:A050.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Dezember 18, Nürnberg.<ptr target="docs:A050.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 29, Regensburg.<ptr target="docs:A078.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1523 März 25, Valladolid.<ptr target="docs:A029.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Jänner 10, Toledo.<ptr target="docs:A173.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Mai 12, Innsbruck.<ptr target="docs:A035.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Mai 12, Innsbruck.<ptr target="docs:A035.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Mai 12, Innsbruck.<ptr target="docs:A035.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ludwig II. an Ferdinand, 1523 Juni 20, Ofen.<ptr target="docs:A040.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 Mai 8, Stuttgart.<ptr target="docs:A195.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Oktober 31, Tübingen.<ptr target="docs:A157.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A149.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 April 15, Burgos.<ptr target="docs:A062.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 April 15, Burgos.<ptr target="docs:A062.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1517 August 23, Middelburg.<ptr target="docs:A007.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 12, Stuttgart.<ptr target="docs:A075.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 23, Granada.<ptr target="docs:A252.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maria an Ferdinand, 1519 Februar 28, Innsbruck.<ptr target="docs:A011.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A073.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Februar 15, Madrid.<ptr target="docs:A123.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 August 24, Speier.<ptr target="docs:A225.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Juni 25, Innsbruck.<ptr target="docs:A042.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 September 2, Linz.<ptr target="docs:A018.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Juli 21, Gmunden.<ptr target="docs:A001.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 April 27, Nürnberg.<ptr target="docs:A065.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Oktober 16, Tübingen.<ptr target="docs:A156.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Mai 4, Innsbruck.<ptr target="docs:A139.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1517 September 7, Middelburg.<ptr target="docs:A008.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1523 Mai 8, Innsbruck.<ptr target="docs:A034.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="orti-gabriel-von">
+               <persName>Orti, Gabriel von</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Juli 21, Gmunden.<ptr target="docs:A001.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="johanna-von-kastilien-gattin-philipps-i-des-schonen-johanna-die-wahnsinnige-konigin-von-kastilien-1504-1555">
+               <persName>Johanna von Kastilien, Gattin Philipps I. („des Schönen“), „Johanna die Wahnsinnige“, Königin von Kastilien (1504-1555)</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Oktober 13, Innsbruck.<ptr target="docs:A002.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Juli 21, Gmunden.<ptr target="docs:A001.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="isabella-die-katholische-konigin-von-kastilien">
+               <persName>Isabella die Katholische, Königin von Kastilien</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Juli 21, Gmunden.<ptr target="docs:A001.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1517 September 7, Middelburg.<ptr target="docs:A008.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="quintana-pedro-de-sekretar-ferdinands-des-katholischen">
+               <persName>Quintana, Pedro de, Sekretär Ferdinands des Katholischen</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand der Katholische an Ferdinand, 1515 November 12, Cazalegas.<ptr target="docs:A003.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand der Katholische an Ferdinand, 1515 Dezember 14, Galisteo.<ptr target="docs:A004.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Juli 21, Gmunden.<ptr target="docs:A001.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="ferdinand-ii-der-katholische-konig-von-aragon">
+               <persName>Ferdinand II., der Katholische, König von Aragón</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1516 Februar 15, Brüssel.<ptr target="docs:A005.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Oktober 13, Innsbruck.<ptr target="docs:A002.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Mai 12, Innsbruck.<ptr target="docs:A035.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand der Katholische an Ferdinand, 1515 November 12, Cazalegas.<ptr target="docs:A003.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand der Katholische an Ferdinand, 1515 Dezember 14, Galisteo.<ptr target="docs:A004.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Juli 21, Gmunden.<ptr target="docs:A001.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="renee-renata-de-france-spatere-herzogin-von-ferrara">
+               <persName>Renée (Renata) de France, spätere Herzogin von Ferrara</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Juli 21, Gmunden.<ptr target="docs:A001.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            </listPerson><listPlace><place xml:id="gmunden">
+               <placeName>Gmunden</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Juli 21, Gmunden.<ptr target="docs:A001.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            </listPlace></back></text></TEI>

@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Personenregister</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <listPerson>{% for key, value in objects.items() %}
+            <person xml:id="{{ key|slugify }}">
+               <persName>{{ key }}</persName>
+               <listEvent>{% for x in value %}
+                  <event type="mentioned">
+                     <label>{{ x[1] }}<ptr target="docs:{{ x[2] }}"/></label>
+                  </event>
+                  {%- endfor %}
+               </listEvent>
+            </person>
+            {%- endfor %}
+         </listPerson>
+      </body>
+  </text>
+</TEI>
