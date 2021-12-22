@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">A192.</title><title type="sub"><persName role="sender">Ferdinand</persName> an <persName role="recipient">Karl</persName>, <date notBefore="1526-04-28" notAfter="1526-04-28" when="1526-04-28">1526 April 28</date>, <placeName>Tübingen</placeName>.</title><author>Ferdinand</author></titleStmt><editionStmt><edition><date>2015-11-12</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document </p></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName>Ferdinand</persName><settlement>Tübingen</settlement><date notBefore="1526-04-28" notAfter="1526-04-28" when="1526-04-28">1526 April 28</date></correspAction><correspAction type="received"><persName>Karl</persName></correspAction></correspDesc></profileDesc><encodingDesc><appInfo><application ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2021-11-26T08:21:03Z</date><name>Pitzer Doris</name></change></listChange></revisionDesc></teiHeader><text><body><div type="letter_header"><p><hi rend="bold">A192.</hi></p><table rend="rules"><row><cell><hi rend="italic">Ferdinand an Karl.</hi></cell><cell><hi rend="italic">1526 April 28. Tübingen.</hi></cell></row></table></div><div type="regest_de"><p rend="Regest Deutsch">K soll bei Verfügung über das im Kgreich Polen ledig gewordene Reichslehen Masowien dieses nicht eher vergeben, bis er nicht von F Informationen erhalten hat.</p></div><div type="regest_en"><p rend="Regest Englisch">Once K has at his disposal the imperial fiefdom of Masovia, which has become free in the Kingdom of Poland, he should wait to give it away until he has received information from F.</p></div><div type="archive_desc"><p rend="Archiv- und Druckvermerk">Wien, St.-A. Belgica PA 7. Original.</p><p rend="Archiv- und Druckvermerk">Druck: Familienkorrespondenz Bd. 1, Nr. 192, S. 382-383.</p></div><div type="transcription"><p>Mons<hi rend="superscript">r</hi>, je me recommande tres humblement à vostre bonne grace. Mons<hi rend="superscript">r</hi>, l’on m’a averti, comme la <placeName resp="Abel_Laura" key="Masowien">duché de Maß</placeName>, estant en royaulme de <index resp="Abel_Laura" key="Polen">Polonie</index>, est fief de l’empire et que le duc qui dernierement la possessoit est trespassé sans hors de son corps, lequel estoit le dernier de sa lignie. Parquoi lad. duché vous seroit escheute. L’on dit aussi qu’elle doit valoir bien cent mil florins d’or ou ducatz par an que, si ainsi estoit, ne fais doubte V<hi rend="superscript">re</hi> M<hi rend="superscript">te</hi> sera fort poursuite pour la donner. Parquoi, mons<hi rend="superscript">r</hi>, vous supplie tres humblement avant que l’accorder ou donner à quelcun vouloir actendre ma plus ample informacion, laquelle je fais faire à la verité, savoir ce que s’est dicelle duché. Mons<hi rend="superscript">r</hi>, je supplie atant le createur qui vous doint bonne vie et longue.</p><p>De <placeName resp="Abel_Laura" key="Tübingen">Tubinghen</placeName>, ce 28<hi rend="superscript">e</hi> davril a<hi rend="superscript">o</hi> 26.</p><p>Vostre tres humble et tres obeisant frere</p><p>Ferdinandus.</p></div><div type="commentary"><p rend="Kommentar">Rückwärts Adresse: <hi rend="italic">A l’empereur mons</hi><hi rend="italic superscript">r</hi><hi rend="italic">.</hi></p></div></body><back><listPerson/><listPlace><place xml:id="masowien">
+               <placeName>Masowien</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 April 28, Tübingen.<ptr target="docs:A192.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Juli 27, Granada.<ptr target="docs:A216.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            <place xml:id="tubingen">
+               <placeName>Tübingen</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 August 24, Tübingen.<ptr target="docs:A147.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria, 1525 November 6, Tübingen.<ptr target="docs:A160.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A150.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 April 19, Tübingen.<ptr target="docs:A191.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1525 September 14, Tübingen.<ptr target="docs:A154.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1525 November 11, Tübingen.<ptr target="docs:A162.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 März 20, Tübingen.<ptr target="docs:A187.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1525 November 26, Brüssel.<ptr target="docs:A164.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 April 28, Tübingen.<ptr target="docs:A192.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 April 30, Tübingen.<ptr target="docs:A193.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Oktober 31, Tübingen.<ptr target="docs:A157.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Ludwig II., 1525 Oktober 1, Tübingen.<ptr target="docs:A155.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A149.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Ludwig, 1526 März 26, Tübingen.<ptr target="docs:A188.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1525 September 14, Tübingen.<ptr target="docs:A153.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Oktober 16, Tübingen.<ptr target="docs:A156.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 12, Tübingen.<ptr target="docs:A151.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Guillaume Basin und Jehan Masson), 1525 September 14, Tübingen.<ptr target="docs:A152.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            </listPlace></back></text></TEI>

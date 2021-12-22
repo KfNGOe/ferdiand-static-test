@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">A74.</title><title type="sub"><persName role="sender">Ferdinand</persName> an <persName role="recipient">Karl</persName>, <date notBefore="1524-06-12" notAfter="1524-06-12" when="1524-06-12">1524 Juni 12</date>, <placeName>Stuttgart</placeName>.</title><author>Ferdinand</author></titleStmt><editionStmt><edition><date>2015-10-07</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document </p></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName>Ferdinand</persName><settlement>Stuttgart</settlement><date notBefore="1524-06-12" notAfter="1524-06-12" when="1524-06-12">1524 Juni 12</date></correspAction><correspAction type="received"><persName>Karl</persName></correspAction></correspDesc></profileDesc><encodingDesc><appInfo><application ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2021-11-26T08:21:28Z</date><name>Pitzer Doris</name></change></listChange></revisionDesc></teiHeader><text><body><div type="letter_header"><p><hi rend="bold">A74.</hi></p><table rend="rules"><row><cell><hi rend="italic">Ferdinand an Karl.</hi></cell><cell><hi rend="italic">1524 Juni 12. Stuttgart.</hi></cell></row></table></div><div type="regest_de"><p rend="Regest Deutsch">1. Beglaubigung für Herrn de Bredam. 2. Bittet K, gegen die Anhänger Luthers vorzugehen.</p></div><div type="regest_en"><p rend="Regest Englisch">1. Accreditation for Bredam. 2. Asks K to take action against the Lutherans.</p></div><div type="archive_desc"><p rend="Archiv- und Druckvermerk">Wien, St.-A. Belgica PA. 7. Eigenhändig von F geschriebenes Original mit Papiersiegel.</p><p rend="Archiv- und Druckvermerk">Druck: Familienkorrespondenz Bd. 1, Nr. 74, S. 146.</p></div><div type="transcription"><p n="1">Mons<hi rend="superscript">r</hi>, treshumblement à vostre bone grace me recomende. Mons<hi rend="superscript">r</hi>, j’envoie le presen protur, le <persName resp="Abel_Laura" key="Bredam, Charles de Bourgogne, Herr von">s<hi rend="superscript">r</hi> de Bredam</persName>, vers vous. Lequel vous dira et declairera depar moy beacop d’affaires, concernans vostre honneur, exaltation et proufit et le mien aussy qui est une mesme chose, et en luy baillant entiere foy et credence à tout ce qu’il vous dira come à moy mesmes, sy je y estoye presant, vous supplie treshumblement vouloir le tout bien penser et considerer et luy bailier telle despeche<hi rend="superscript">a</hi>) et resolution, comme j’ay ma fiance en vous.</p><p n="2">Ausurplus,<hi rend="superscript">b</hi>) mons<hi rend="superscript">r</hi>, je vous suplie aussy treshumblement vouloir regarder de faire quelque bone et profitable provision en ceste mauldite <index resp="Abel_Laura" key="Lutheraner">secte de Lutere</index> et prendre la chosse à cuer, come il est bien besoin et la raison le requiert, car je ne vous saroye tant escripre ne nul luy vous dire, come est en soy mesmes creue et aumenté. Atant, mons<hi rend="superscript">r</hi>, je prie le createur vous doner bonne vie et longue.</p><p>De <placeName resp="Abel_Laura" key="Stuttgart">Stocart</placeName>, ce 12<hi rend="superscript">e</hi> de juing l’an 1524.</p><p>Vostre tres humble et tres obeisant frere</p><p>Ferdinandus.</p></div><div type="commentary"><p rend="Kommentar">Rückwärts eigenhändig geschriebene Adresse: <hi rend="italic">A l’empereur mons</hi><hi rend="italic superscript">r</hi>.</p><p rend="Kommentar" n="1">a) <hi rend="italic">comme </hi>darnach getilgt. </p><p rend="Kommentar" n="2">b) hier beginnt ein Tintenwechsel.</p></div></body><back><listPerson><person xml:id="bredam-charles-de-bourgogne-herr-von">
+               <persName>Bredam, Charles de Bourgogne, Herr von</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 September 7, Valladolid.<ptr target="docs:A089.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 September 7, Valladolid.<ptr target="docs:A089.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1523 Mai 26, Innsbruck.<ptr target="docs:A039.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Juni 17, Innsbruck.<ptr target="docs:A142.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Juni 17, Innsbruck.<ptr target="docs:A142.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Juni 17, Innsbruck.<ptr target="docs:A142.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Jänner 13, Nürnberg.<ptr target="docs:A053.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juli 7, Regensburg.<ptr target="docs:A079.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juli 7, Regensburg.<ptr target="docs:A079.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta (Instruktion für Claude Bouton), 1523 Mai 25, Innsbruck.<ptr target="docs:A038.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta (Instruktion für Claude Bouton), 1523 Mai 25, Innsbruck.<ptr target="docs:A038.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta (Instruktion für Claude Bouton), 1523 Mai 25, Innsbruck.<ptr target="docs:A038.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 12, Stuttgart.<ptr target="docs:A074.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Dezember 16, Madrid.<ptr target="docs:A117.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Dezember 16, Madrid.<ptr target="docs:A117.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Dezember 16, Madrid.<ptr target="docs:A117.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Dezember 16, Madrid.<ptr target="docs:A117.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Dezember 16, Madrid.<ptr target="docs:A117.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 29, Regensburg.<ptr target="docs:A078.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Alonso Gonçalez de Meneses), 1525 Mai 4.<ptr target="docs:A140.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Februar 28, Madrid.<ptr target="docs:A127.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Februar 28, Madrid.<ptr target="docs:A127.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 September 5, Wien.<ptr target="docs:A088.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Mai 12, Innsbruck.<ptr target="docs:A035.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 April 1, Innsbruck.<ptr target="docs:A134.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Oktober 16, Tordesillas.<ptr target="docs:A100.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juli 11, Linz.<ptr target="docs:A082.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 12, Stuttgart.<ptr target="docs:A075.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A073.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A073.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Februar 15, Innsbruck.<ptr target="docs:A124.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Februar 4, Madrid.<ptr target="docs:A120.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1525 April 21, Mecheln.<ptr target="docs:A137.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            </listPerson><listPlace><place xml:id="stuttgart">
+               <placeName>Stuttgart</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A072.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 12, Stuttgart.<ptr target="docs:A074.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 Mai 8, Stuttgart.<ptr target="docs:A195.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 12, Stuttgart.<ptr target="docs:A075.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A073.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 Juni 8, Stuttgart.<ptr target="docs:A071.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            </listPlace></back></text></TEI>

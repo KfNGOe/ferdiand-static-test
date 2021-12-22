@@ -1,0 +1,809 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">A241.</title><title type="sub"><persName role="sender">Ferdinand</persName> an <persName role="recipient">Margareta</persName>, <date notBefore="1526-09-26" notAfter="1526-09-26" when="1526-09-26">1526 September 26</date>, <placeName>Linz</placeName>.</title><author>Ferdinand</author></titleStmt><editionStmt><edition><date>2015-11-25</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document </p></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName>Ferdinand</persName><settlement>Linz</settlement><date notBefore="1526-09-26" notAfter="1526-09-26" when="1526-09-26">1526 September 26</date></correspAction><correspAction type="received"><persName>Margareta</persName></correspAction></correspDesc></profileDesc><encodingDesc><appInfo><application ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2021-11-26T08:21:39Z</date><name>Pitzer Doris</name></change></listChange></revisionDesc></teiHeader><text><body><div type="letter_header"><p><hi rend="bold">A241.</hi></p><table rend="rules"><row><cell><hi rend="italic">Ferdinand an Margareta.</hi></cell><cell><hi rend="italic">1526 September 26. Linz.</hi></cell></row></table></div><div type="regest_de"><p rend="Regest Deutsch">1. Empfing Mg’s Brief vom 8. d. Türkengefahr. Mg würde durch das besprochene Finanzgeschäft ihn und die ganze Christenheit unterstützen. 2. Dankt für ihre Nachrichten. 3. Ein Abkommen mit Frankreich gerade jetzt wünschenswert. 4. Jehan van Kasselt.</p></div><div type="regest_en"><p rend="Regest Englisch">1. Has received Mg's letter dated September 8. Turkish danger. Mg would support him and all of Christendom with the financial transaction discussed. 2. Thanks her for her news. 3. A treaty with France is most desirable at this time. 4. Jehan von Kasselt.</p></div><div type="archive_desc"><p rend="Archiv- und Druckvermerk">Brüssel, Arch. gén. Papiers de l’État et de l’Aud., vol. 93, Bl. 61—62. Original. Rückwärts vermerkt: <hi rend="italic">Presenté à Hoochfort le 9e d’octobre a° 26</hi>, weiter unten: <hi rend="italic">en responce le 14 dud. mois</hi>.</p><p rend="Archiv- und Druckvermerk">Druck: Abschnitt 1] und Datum. Hatvani, MHH. Dipl. 1, S. 44 f. Familienkorrespondenz Bd. 1, Nr. 241, S. 469-471.</p></div><div type="transcription"><p n="1">M<hi rend="superscript">me</hi>, ma bonne tante, humblement et de bon cueur à vostre bonne grace me recommande. M<hi rend="superscript">me</hi>, j’ai receu vostres lettres du 8<hi rend="superscript">e</hi> de ce mois et par icelle entendu la bonne adresse qu’avez fait au gentilhomme de la roine de Hungrie et à <persName resp="Abel_Laura" key="Presinger, F’s pannetier, gesandt an K">Presinger</persName>, mon panetier, pour leur brief passaige devers l’empereur, mons<hi rend="superscript">r</hi> et frere, pour les causes que d’eulx avez amplement entendu. Ensemble qu’il vous a pleu escripre à sa m<hi rend="superscript">te</hi>, comme de tout temps avez tousiours fait, du bon vouloir et devoir qu’ai fait et fais journellement aux affaires d’icelle dont bien humblement vous mercie et supplie y continuer, car aussi la verité s’en peult par l’effect congnoistre; et me desplait grandement que n’en puis mieulx faire, mais, m<hi rend="superscript">me</hi>, à ceste heure pouez bien penser, en quelle perplexité et extremité je me treuve à l’occasion <index resp="Abel_Laura" key="Türkenabwehr">des Turcz</index> et puis que n’avez peu besoingner sur la finance que vous avoie supplié dont <persName resp="Abel_Laura" key="Hemricourt, Henri de, Hofmeister Fs ">Hamericourt</persName> m’a amplement dit les difficultéz que y trouvies. Il se fault, m<hi rend="superscript">me</hi>, comme dictes, conformer avec le pouoir, combien que, si lad. finance eust peu sortir effect, fut presentement venu plus que bien à propoz pour aider à repousser les Turcz, que ne m’est sans autre pouoir que le mien et sans l’aide des princes chrestiens possible savoir faire, veu que <persName resp="Abel_Laura" key="Süleyman I.">led. Turc</persName> desia est enraciné si avant en la <index resp="Abel_Laura" key="Christenheit">chrestienté</index>, comme sçaves et que par mes dernieres lettres avez amplement entendu. Parquoi, m<hi rend="superscript">me</hi>, si de vostre part m’y pouies faire quelque aide, y devries comme bonne dame et princesse chrestienne à cest effect entierement dresser vostre cueur et desir que non seullement feries service à dieu, ains pourroit estre cause de la preservacion de la chrestienté qui est en si grant bransle que plus ne sauroit, vous suppliant y avoir bon regard et en faire ce qui sera en vostre pouoir.</p><p n="2">J’ai, m<hi rend="superscript">me</hi>, bien entendu les nouvelles, contenues en vosd. lettres, dont et de la paine que prenez à m’en ainsi participer vous mercie bien humblement et prie y continuer et de ma part de ce qui me surviendra ferai, comme jusques à oires ai fait, tout devoir au semblable.</p><p n="3">Et quant à la dissimulacion et frivoles excuses des <index resp="Abel_Laura" key="Frankreich">François</index>, ce ne nous doit, m<hi rend="superscript">me</hi>, estre chose nouvelle, veu que oncques n’en firent autrement. Neantmoins, m<hi rend="superscript">me</hi>, pour ce que maintenant les affaires ne requierent que ayons ainsi tout d’occupacions et guerres par tous coustéz et jacoit ce que le <persName resp="Abel_Laura" key="Franz I., König von Frankreich">roi de France</persName> face plus que mauvais devoir à entretenir ce qu’il a promis et juré, si me semble il, puisque la querelle de <index resp="Abel_Laura" key="Burgund">Bourgoingne</index> demeure en estre et au mesme estat comme devant, et comme j’entens qu’il est content satisfere à toute la reste du <index resp="Abel_Laura" key="Madrid, Friede von (1526)">traictié de Madril</index>, et actendu aussi que non seullement noz pays patrimoniaulx, mais la reste de toute la <index resp="Abel_Laura" key="Christenheit">christienté</index> sont en plus grant dangier de tumber à totalle ruine et desolacion que oncques ne furent, comme ne fais doubte, sans que l’on y pourvoie autrement, feront, l’on ne devroit ainsi laisser perdre le tout, y adjoinct l’honneur et reputacion, pour si petite chose au regard de ce que dessus, ains combien que l’on ne pourra du tout avoir appoinctement à son desir et ainsi que justice et raison requierent, avant que de mectre lad. chrestienté à tel scandale et dommaige irrecuparable trouver quelque bon moyen d’appoinctement, affin que les princes d’ung commung accord et vouloir puissent <index resp="Abel_Laura" key="Türkenabwehr">reiecter</index> <persName resp="Abel_Laura" key="Süleyman I.">led. Turc</persName> et employer leurs forces à l’augmentacion de la chrestienté. Parquoi, m<hi rend="superscript">me</hi>, vous supplie de vostre part tenir la main envers sad. m<hi rend="superscript">te</hi> que paix à son plus grant honneur, prouffit et seurté que possible sera se puisse faire, car autrement sans aucune faulte ni voi autre moyen ni espoir que toute lad. chrestienté ne se parde entierement.</p><p n="4">Quant à l’affaire de <persName resp="Abel_Laura" key="Kasselt, Jehan">Jehan van Kesselt</persName> de <placeName resp="Abel_Laura" key="Maastricht">Maiestrich</placeName>, j’ai, m<hi rend="superscript">me</hi>, en passant par <placeName resp="Abel_Laura" key="Esslingen">Eslinghen</placeName>, presenté les lettres que m’en envoyastes et aussi en parla bien amplement à ceulx de la <index resp="Abel_Laura" key="HRR, Reichskammergericht">chambre</index>, mais pour ce que ne y tardei gueires, ne m’en ont encoires fait responce. Neantmoins j’en escriprai à mon procureur aud. <index resp="Abel_Laura" key="HRR, Regiment">regiment</index> et ferai toutes autres choses que pourrai, mais pour ce que suis loing dud. Eslinghen et que pour les grans affaires que j’ai n’en pourrai faire si bien que vouldroie, me semble feries bien envoyer quelcun illec pour lad. affaire, affin que tant mieulx puissez sçavoir, en quel estat il est. Et semblablement, m<hi rend="superscript">me</hi>, vous supplie regarder vous y gouverner de sorte que prejudice à vous et aux pays depardela n’en adviengne, car le temps present ne requiert que sad. m<hi rend="superscript">te</hi> ni les siens, ainsi que assez sçavez, soient en plus de troubles qu’ilz sont. Et sur ce, m<hi rend="superscript">me</hi>, ma bonne tante, je prie à dieu vous donner bonne vie et longue.</p><p>De <placeName resp="Abel_Laura" key="Linz">Lintz</placeName>, ce 26<hi rend="superscript">e</hi> de septembre a<hi rend="superscript">o</hi> 26.</p><p>Vostre<hi rend="superscript">a</hi>) bon et humble nepveu Ferdinandus.</p></div><div type="commentary"><p rend="Kommentar">Rückwärts <hi rend="italic">Adresse: A m</hi><hi rend="italic superscript">me</hi><hi rend="italic">, ma bonne tante, m</hi><hi rend="italic superscript">me</hi><hi rend="italic"> l’archiducesse d’Austrice, ducesse et contesse de Bourgoingne, regente et gouvernante etc.</hi></p><p rend="Kommentar" n="1">Gemeint ist Nr. A231. Auf diesen Brief beziehen sich auch die hier behandelten Fragen.</p><p rend="Kommentar" n="4">a) von <hi rend="italic">vostre</hi> an eigenhändig.</p></div></body><back><listPerson><person xml:id="franz-i-konig-von-frankreich">
+               <persName>Franz I., König von Frankreich</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 März 30, Sevilla.<ptr target="docs:A189.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Jänner 9, Toledo.<ptr target="docs:A170.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Juli 27, Mecheln.<ptr target="docs:A217.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Juli 27, Mecheln.<ptr target="docs:A217.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A072.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Dezember 4, Augsburg.<ptr target="docs:A166.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 20, Laeken.<ptr target="docs:A238.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 20, Laeken.<ptr target="docs:A238.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 20, Laeken.<ptr target="docs:A238.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 20, Laeken.<ptr target="docs:A238.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 20, Laeken.<ptr target="docs:A238.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 September 7, Valladolid.<ptr target="docs:A089.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1523 Mai 4, Innsbruck.<ptr target="docs:A032.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Oktober 2, Hoogstrat.<ptr target="docs:A242.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 Dezember 31, Wien.<ptr target="docs:A261.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 Dezember 31, Wien.<ptr target="docs:A261.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Oktober 13, Hoogstraten.<ptr target="docs:A244.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Oktober 13, Hoogstraten.<ptr target="docs:A244.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Juni 17, Innsbruck.<ptr target="docs:A142.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Juni 17, Innsbruck.<ptr target="docs:A142.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Juli 4, Wijnendale.<ptr target="docs:A207.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Juli 4, Wijnendale.<ptr target="docs:A207.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Juli 4, Wijnendale.<ptr target="docs:A207.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juli 7, Regensburg.<ptr target="docs:A079.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Jänner 16, Vitoria.<ptr target="docs:A056.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Dezember 16, Madrid.<ptr target="docs:A117.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 5, Wien.<ptr target="docs:A106.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 März 20, Tübingen.<ptr target="docs:A187.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1523 Dezember.<ptr target="docs:A047.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Mai 28, Freiburg.<ptr target="docs:A070.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1523 Mai 13, Innsbruck.<ptr target="docs:A037.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Mai 12, Innsbruck.<ptr target="docs:A036.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1525 November 26, Brüssel.<ptr target="docs:A164.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juli 20, Toledo.<ptr target="docs:A145.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juli 20, Toledo.<ptr target="docs:A145.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Alonso Gonçalez de Meneses), 1525 Mai 4.<ptr target="docs:A140.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Alonso Gonçalez de Meneses), 1525 Mai 4.<ptr target="docs:A140.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 März 261, Madrid.<ptr target="docs:A133.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 März 261, Madrid.<ptr target="docs:A133.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 November 20, Salzburg.<ptr target="docs:A112.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 August 7, Mecheln.<ptr target="docs:A220.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 März 14, Innsbruck.<ptr target="docs:A131.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 März 14, Innsbruck.<ptr target="docs:A131.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 März 14, Innsbruck.<ptr target="docs:A131.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Mai 25, Burgos.<ptr target="docs:A069.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A103.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A103.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 April 27, Nürnberg.<ptr target="docs:A066.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 Februar 8, Augsburg.<ptr target="docs:A183.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1525 Dezember 12, Augsburg.<ptr target="docs:A167.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1525 Dezember 12, Augsburg.<ptr target="docs:A167.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juni 27, Toledo.<ptr target="docs:A144.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1523 Juni 20, Valladolid.<ptr target="docs:A041.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 26, Linz.<ptr target="docs:A241.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Juli 27, Granada.<ptr target="docs:A216.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A149.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A149.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 April 1, Innsbruck.<ptr target="docs:A134.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Oktober 16, Tordesillas.<ptr target="docs:A100.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 23, Granada.<ptr target="docs:A252.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 23, Granada.<ptr target="docs:A252.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juni 25, Toledo.<ptr target="docs:A143.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juni 25, Toledo.<ptr target="docs:A143.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juni 25, Toledo.<ptr target="docs:A143.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 Juni 27, Speier.<ptr target="docs:A205.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Oktober 4, Granada.<ptr target="docs:A243.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Oktober 4, Granada.<ptr target="docs:A243.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Februar 2, Toledo.<ptr target="docs:A182.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Februar 15, Innsbruck.<ptr target="docs:A124.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Juli 19, Mecheln.<ptr target="docs:A215.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Februar 19, Toledo.<ptr target="docs:A184.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Februar 4, Madrid.<ptr target="docs:A120.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 September 2, Linz.<ptr target="docs:A018.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 29, Granada.<ptr target="docs:A256.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Mai 4, Innsbruck.<ptr target="docs:A139.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="presinger-fs-pannetier-gesandt-an-k">
+               <persName>Presinger, F’s pannetier, gesandt an K</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 August 27, Speier.<ptr target="docs:A228.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 26, Linz.<ptr target="docs:A241.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1520 August 27, Speier.<ptr target="docs:A227.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 23, Granada.<ptr target="docs:A252.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 29, Granada.<ptr target="docs:A256.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="kasselt-jehan">
+               <persName>Kasselt, Jehan</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 Juli 15, Speier.<ptr target="docs:A211.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Juli 27, Mecheln.<ptr target="docs:A217.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 20, Laeken.<ptr target="docs:A238.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Oktober 13, Hoogstraten.<ptr target="docs:A244.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 April 19, Tübingen.<ptr target="docs:A191.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 August 7, Mecheln.<ptr target="docs:A220.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 26, Linz.<ptr target="docs:A241.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="hemricourt-henri-de-hofmeister-fs">
+               <persName>Hemricourt, Henri de, Hofmeister Fs</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Henry de Hemricourt und Martín de Salinas), 1522 November, Nürnberg.<ptr target="docs:A021.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Jänner 13, Nürnberg.<ptr target="docs:A053.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1523 Mai 13, Innsbruck.<ptr target="docs:A037.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Mai 12, Innsbruck.<ptr target="docs:A036.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Dezember 18, Nürnberg.<ptr target="docs:A050.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Dezember 18, Nürnberg.<ptr target="docs:A050.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 März 261, Madrid.<ptr target="docs:A133.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1523 März 25, Valladolid.<ptr target="docs:A029.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Mai 12, Innsbruck.<ptr target="docs:A035.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 26, Linz.<ptr target="docs:A241.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 November 5, Nürnberg.<ptr target="docs:A023.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1523 September 8, Burgos.<ptr target="docs:A046.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1523 September 8, Burgos.<ptr target="docs:A046.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A149.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A149.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 April 15, Burgos.<ptr target="docs:A062.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juni 25, Toledo.<ptr target="docs:A143.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Juni 25, Innsbruck.<ptr target="docs:A042.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 29, Granada.<ptr target="docs:A256.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Mai 4, Innsbruck.<ptr target="docs:A139.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Guillaume Basin und Jehan Masson), 1525 September 14, Tübingen.<ptr target="docs:A152.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="suleyman-i">
+               <persName>Süleyman I.</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 März 30, Sevilla.<ptr target="docs:A189.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A072.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 20, Laeken.<ptr target="docs:A238.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Oktober 2, Hoogstrat.<ptr target="docs:A242.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Oktober 2, Hoogstrat.<ptr target="docs:A242.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Oktober 13, Hoogstraten.<ptr target="docs:A244.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Oktober 13, Hoogstraten.<ptr target="docs:A244.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juli 7, Regensburg.<ptr target="docs:A079.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta (Instruktion für Claude Bouton), 1523 Mai 25, Innsbruck.<ptr target="docs:A038.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta (Instruktion für Claude Bouton), 1523 Mai 25, Innsbruck.<ptr target="docs:A038.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 Oktober 28, Wien.<ptr target="docs:A250.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 August 15, Speier.<ptr target="docs:A223.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Dezember 18, Nürnberg.<ptr target="docs:A050.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Dezember 18, Nürnberg.<ptr target="docs:A050.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1523 März 25, Valladolid.<ptr target="docs:A029.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 November 1, Wien.<ptr target="docs:A105.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Mai 12, Innsbruck.<ptr target="docs:A035.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 März 14, Innsbruck.<ptr target="docs:A131.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Mai 25, Burgos.<ptr target="docs:A069.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 April 30, Tübingen.<ptr target="docs:A193.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ludwig II. an Ferdinand, 1526 Juni 6, Ofen.<ptr target="docs:A202.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1523 Juni 20, Valladolid.<ptr target="docs:A041.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 26, Linz.<ptr target="docs:A241.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 26, Linz.<ptr target="docs:A241.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 November 5, Nürnberg.<ptr target="docs:A023.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 November 5, Nürnberg.<ptr target="docs:A023.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Juli 27, Granada.<ptr target="docs:A216.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Juli 27, Granada.<ptr target="docs:A216.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Juli 27, Granada.<ptr target="docs:A216.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ludwig II. an Ferdinand, 1526 Juli 15, Ofen.<ptr target="docs:A210.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 18, Linz.<ptr target="docs:A237.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 18, Linz.<ptr target="docs:A237.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A149.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 April 15, Burgos.<ptr target="docs:A062.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ludwig II. an Ferdinand, 1523 April 24, Neutra.<ptr target="docs:A031.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ludwig II. an Ferdinand, 1523 April 24, Neutra.<ptr target="docs:A031.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 23, Granada.<ptr target="docs:A252.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 August 10, Speier.<ptr target="docs:A221.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 Juni 8, Stuttgart.<ptr target="docs:A071.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Ludwig II., 1524 April 16, Nürnberg.<ptr target="docs:A063.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Oktober 31, Toledo.<ptr target="docs:A158.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 April 27, Nürnberg.<ptr target="docs:A065.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Mai 4, Innsbruck.<ptr target="docs:A139.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 November 24, Wien.<ptr target="docs:A254.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            </listPerson><listPlace><place xml:id="esslingen">
+               <placeName>Esslingen</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A072.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 August 14, Wien.<ptr target="docs:A085.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1525 September 14, Tübingen.<ptr target="docs:A154.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 29, Regensburg.<ptr target="docs:A078.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Alonso Gonçalez de Meneses), 1525 Mai 4.<ptr target="docs:A140.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 März 261, Madrid.<ptr target="docs:A133.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Mai 25, Burgos.<ptr target="docs:A069.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 26, Linz.<ptr target="docs:A241.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 April 27, Nürnberg.<ptr target="docs:A065.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 April 27, Nürnberg.<ptr target="docs:A065.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            <place xml:id="maastricht">
+               <placeName>Maastricht</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 Juli 27, Mecheln.<ptr target="docs:A217.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 20, Laeken.<ptr target="docs:A238.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 April 19, Tübingen.<ptr target="docs:A191.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1525 November 26, Brüssel.<ptr target="docs:A164.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 August 7, Mecheln.<ptr target="docs:A220.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 26, Linz.<ptr target="docs:A241.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Juli 27, Granada.<ptr target="docs:A216.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 Mai 20, Speier.<ptr target="docs:A198.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Margareta an Ferdinand, 1526 September 7, Bergh.<ptr target="docs:A231.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            <place xml:id="linz">
+               <placeName>Linz</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 Dezember 31, Wien.<ptr target="docs:A261.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria, 1526 September 17, Linz.<ptr target="docs:A235.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria (Instruktion für Johann von Lamberg), 1526 September 17, Linz.<ptr target="docs:A236.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 5, Wien.<ptr target="docs:A106.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 Juli 12, Heidelberg.<ptr target="docs:A209.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Dezember 18, Nürnberg.<ptr target="docs:A050.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria, 1526 September 11, Kufstein.<ptr target="docs:A234.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A103.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 26, Linz.<ptr target="docs:A241.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 22, Linz.<ptr target="docs:A240.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 18, Linz.<ptr target="docs:A237.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 18, Linz.<ptr target="docs:A237.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juli 11, Linz.<ptr target="docs:A082.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 November 23, Granada.<ptr target="docs:A252.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 September 2, Linz.<ptr target="docs:A018.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 September 2, Linz.<ptr target="docs:A018.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 September 2, Linz.<ptr target="docs:A018.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            </listPlace></back></text></TEI>

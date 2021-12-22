@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">A83.</title><title type="sub"><persName role="sender">Karl</persName> an <persName role="recipient">Ferdinand</persName>, <date notBefore="1524-07-12" notAfter="1524-07-12" when="1524-07-12">1524 Juli 12</date>, <placeName>Burgos</placeName>.</title><author>Karl</author></titleStmt><editionStmt><edition><date>2015-10-15</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document </p></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName>Karl</persName><settlement>Burgos</settlement><date notBefore="1524-07-12" notAfter="1524-07-12" when="1524-07-12">1524 Juli 12</date></correspAction><correspAction type="received"><persName>Ferdinand</persName></correspAction></correspDesc></profileDesc><encodingDesc><appInfo><application ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2021-11-26T08:21:07Z</date><name>Pitzer Doris</name></change></listChange></revisionDesc></teiHeader><text><body><div type="letter_header"><p><hi rend="bold">A83.</hi></p><table rend="rules"><row><cell><hi rend="italic">Karl an Ferdinand.</hi></cell><cell><hi rend="italic">[1524 Juli 12. Burgos]</hi><hi rend="italic superscript">1</hi><hi rend="italic">)</hi></cell></row></table></div><div type="regest_de"><p rend="Regest Deutsch">Neugierig betreffs Hannarts Tätigkeit in Sachen Dänemarks und Sachsens. Heirat der Infantin Katharina. Notwendig, daß Hannart nach Polen geht infolge von Umtrieben Frankreichs.</p></div><div type="regest_en"><p rend="Regest Englisch">Is curious about Hannart's activities in the matter of Denmark and Saxony. Infanta Catherine's marriage. As a result of French intrigue and scheming, Hannart must go to Poland.</p></div><div type="archive_desc"><p rend="Archiv- und Druckvermerk">(W.) Wien. St.-A. Belgica PA. 5. Konzept mit verschiedenen Verbesserungen. Die ursprüngliche Gestalt zeigt, daß der Brief eigentlich an Hannart gerichtet war. Hiezu gehört offenbar auch der Schluß. — Grundlage für den folgenden Abdruck.</p><p rend="Archiv- und Druckvermerk">(B.) Brüssel. Arch. gén. Pap. de lʼÉtat et de lʼAud. Vol. 42, Bl. 23ff. Kopie s. XVIII.</p><p rend="Archiv- und Druckvermerk">Druck: Familienkorrespondenz Bd. 1, Nr. 83, S. 208-209.</p></div><div type="transcription"><p>Mon bon frere,<hi rend="superscript">a</hi>) je vous ai fait responce par la voie d’<index resp="Abel_Laura" key="Italien">Ytale</index> et de <index resp="Abel_Laura" key="Flandern">Flandres</index> à tout ce que vous m’avez escript<hi rend="superscript">b</hi>) par les postes et actendz<hi rend="superscript">c</hi>) avec grand desir sçavoir de voz nouvelles et aussi de ce que le <persName resp="Abel_Laura" key="Hannart, Jean, Vicomte de Lombeke, Sekretär und Gesandter Ks in Deutschland">visconte de Lombeke</persName> aura besoingné au fait de <index resp="Abel_Laura" key="Dänemark">Dannemark</index> et aussi de <index resp="Abel_Laura" key="Sachsen">Saxen</index>, car le <index resp="Abel_Laura" key="Heirat, Katharina von Österreich mit Johann III. von Portugal">mariage</index> de nostred. Seur, donne <persName resp="Abel_Laura" key="Katharina von Österreich, Königin von Portugal">Katherine</persName>, avec le <persName resp="Abel_Laura" key="Johann III., König von Portugal">roi de Portugal</persName> est conclud et juré par parolle de futur et, venue la dispensation, laquelle s’attend de jour à aultre, led. mariage se consommera. J’escriptz<hi rend="superscript">d</hi>) maintenant aud. <persName resp="Abel_Laura" key="Hannart, Jean, Vicomte de Lombeke, Sekretär und Gesandter Ks in Deutschland">visconte</persName> comme il est de besoingne pour les causes contenuées en ses<hi rend="superscript">e</hi>) instructions qu’il se trouve devers <persName resp="Abel_Laura" key="Sigismund I., König von Polen">le roi de Pollhain</persName>. Et davantage est encoires plus que besoing à cause que sommes tout pour vrai adverti que son ambassadeur, estant en <index resp="Abel_Laura" key="Frankreich">France</index>, communique illec de traicter <index resp="Abel_Laura" key="Heirat, Projekt Polen - Frankreich">mariage</index> du filz dud. roi de Pollhain avec une des filles de France et que les deux princes moyennant cest acord donneront à leursd. enffans le droit qu’ilz pretendent en la <index resp="Abel_Laura" key="Mailand">duché de Millan</index>. Je me donne<hi rend="superscript">f</hi>) grand merveille que led. roi de Pollhain entende à telle pratique qu’est directement contre nous et nostre alliance,<hi rend="superscript">g</hi>) parquoi je mande<hi rend="superscript">h</hi>) en credence aud. visconte que au plustot que les aultres plus necessaires affaires de sa<hi rend="superscript">i</hi>) charge la pourront porter, il se trouve<hi rend="superscript">j</hi>) devers led. roi de Pollhain et par bonnes remonstrances et persuasions qu’il fera tienne main<hi rend="superscript">k</hi>) qu’il se vuelle deporter de tenir aulcune pratique n’y prendre alliance avec nostre ennemi et qu’il nous advertisse de son<hi rend="superscript">l</hi>) besoingne sur ce.<hi rend="superscript">m</hi>)</p></div><div type="commentary"><p rend="Kommentar" n="1">Das Stück ohne ursprüngliches Datum. Von späterer Hand wurde die obige Datierung hinzugefügt, die auch in B. angegeben wird. Sie hat insofern einige Wahrscheinlichkeit für sich, da das Konzept des Briefes K’s an F vom 11. Juli 1524 auf der Rückseite den Entwurf eines Schreibens K’s an Hannart trägt, das inhaltlich dem vorliegenden nahekommt.</p><p rend="Kommentar">a) ursprünglich <hi rend="italic">Chier et feal, par la voie... Flandres vous avons fait responce à tout. . . escript tant par maistre Michel Gillis que depuis par les postes et actendons sçavoir de vostre besoigne </hi>W. - b) <hi rend="italic">tant par maistre Michel Gillis que depuis</hi> B. - c) <hi rend="italic">actendz — aura</hi> am Rande nachgetragen W. - d) J’escriptz —que am Rande nachgetragen W. - e) ursprünglich <hi rend="italic">voz</hi> W. - f) ursprünglich <hi rend="italic">nous nous donnons</hi> W. - g) <hi rend="italic">mes alliances</hi> B. - h) ursprünglich <hi rend="italic">voz requerons et neantmoins ordonnons</hi> W. - i) ursprünglich <hi rend="italic">vostre </hi>W. - j) ursprünglich <hi rend="italic">vouz trouvez</hi> W. - k) ursprünglich <hi rend="italic">ferez tenez main</hi> W. - l) ursprünglich <hi rend="italic">vostre</hi> W. - m) B reicht nur bis hieher. Das Folgende aus W offenbar für Hannart bestimmt: <hi rend="italic">Et quant à vostre traictement et sallaire, il ne s’est peu trouver nul charge pardeça, mais nous sommes content que le prenez pardela à le rembourser ici et moins le ferois faire de sorte qu’il n’y aura faulte au payement et que en serez devenant indampne et deschargé, comme appertient par la raison. Donné etc.</hi></p><p rend="Kommentar">Vielleicht darf man annehmen, daß das vorliegende Konzept, nachdem es als Vorlage für einen Brief an Hannart gedient hatte, umgeändert worden ist, um als Entwurf für den vorliegenden Brief benützt zu werden. — Erwähnt wird der vorliegende Brief von Bucholtz 2, S. 255.</p><p rend="Kommentar">Die Heiratsvermittlung hatte in Polen der französische Gesandte <persName resp="Abel_Laura" key="Rincón, Antonio de, ehemaliger Comunero, im Dienste Frankreichs">Rincon</persName><seg rend="italic"/> betrieben. Vgl. H. Übersberger, Österreich und Rußland 1, S. 182f. Hannart ging nicht nach Polen, dessen Kg er auch das <index resp="Abel_Laura" key="Goldenes Vließ, Orden">Goldene Vließ</index><seg rend="italic"/> überbringen sollte. Vgl. Nr. 102.</p></div></body><back><listPerson><person xml:id="hannart-jean-vicomte-de-lombeke-sekretar-und-gesandter-ks-in-deutschland">
+               <persName>Hannart, Jean, Vicomte de Lombeke, Sekretär und Gesandter Ks in Deutschland</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A072.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A102.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Oktober 4, Tordesillas.<ptr target="docs:A094.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Dezember 10, Innsbruck.<ptr target="docs:A116.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Dezember 10, Innsbruck.<ptr target="docs:A116.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 12, Burgos.<ptr target="docs:A083.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 12, Burgos.<ptr target="docs:A083.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Jänner 13, Nürnberg.<ptr target="docs:A053.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Jänner 16, Vitoria.<ptr target="docs:A056.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Jänner 16, Vitoria.<ptr target="docs:A056.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Dezember 16, Madrid.<ptr target="docs:A117.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Dezember 16, Madrid.<ptr target="docs:A117.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Mai 28, Freiburg.<ptr target="docs:A070.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Dezember 18, Nürnberg.<ptr target="docs:A050.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 29, Regensburg.<ptr target="docs:A078.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 September 5, Wien.<ptr target="docs:A088.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 September 5, Wien.<ptr target="docs:A088.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 September 5, Wien.<ptr target="docs:A088.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1523 April 5, Nürnberg.<ptr target="docs:A060.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Mai 25, Burgos.<ptr target="docs:A069.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Mai 25, Burgos.<ptr target="docs:A069.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 Dezember 2, Innsbruck.<ptr target="docs:A114.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 April 27, Nürnberg.<ptr target="docs:A066.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 April 27, Nürnberg.<ptr target="docs:A066.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1523 September 8, Burgos.<ptr target="docs:A046.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A149.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 April 15, Burgos.<ptr target="docs:A062.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 April 15, Burgos.<ptr target="docs:A062.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 April 15, Burgos.<ptr target="docs:A062.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 April 15, Burgos.<ptr target="docs:A062.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juli 11, Linz.<ptr target="docs:A082.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juni 25, Toledo.<ptr target="docs:A143.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Juni 10, Stuttgart.<ptr target="docs:A073.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 Juni 8, Stuttgart.<ptr target="docs:A071.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Februar 15, Innsbruck.<ptr target="docs:A124.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Februar 15, Innsbruck.<ptr target="docs:A124.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Ludwig II., 1524 April 16, Nürnberg.<ptr target="docs:A063.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 11, Burgos.<ptr target="docs:A081.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 11, Burgos.<ptr target="docs:A081.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 11, Burgos.<ptr target="docs:A081.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Februar 4, Madrid.<ptr target="docs:A120.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Oktober 31, Toledo.<ptr target="docs:A158.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 April 27, Nürnberg.<ptr target="docs:A065.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Mai 4, Innsbruck.<ptr target="docs:A139.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="johann-iii-konig-von-portugal">
+               <persName>Johann III., König von Portugal</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A102.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 12, Burgos.<ptr target="docs:A083.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 September 5, Wien.<ptr target="docs:A088.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juni 25, Toledo.<ptr target="docs:A143.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 11, Burgos.<ptr target="docs:A081.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Oktober 31, Toledo.<ptr target="docs:A158.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="sigismund-i-konig-von-polen">
+               <persName>Sigismund I., König von Polen</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A102.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 12, Burgos.<ptr target="docs:A083.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria, 1525 November 6, Tübingen.<ptr target="docs:A160.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria, 1526 September 9, Innsbruck.<ptr target="docs:A233.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 Oktober 28, Wien.<ptr target="docs:A250.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Jänner 10, Toledo.<ptr target="docs:A173.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 Dezember 2, Innsbruck.<ptr target="docs:A114.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 Februar 15, Innsbruck.<ptr target="docs:A124.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="katharina-von-osterreich-konigin-von-portugal">
+               <persName>Katharina von Österreich, Königin von Portugal</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A102.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 12, Burgos.<ptr target="docs:A083.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maximilian I. an Ferdinand, 1514 Oktober 13, Innsbruck.<ptr target="docs:A002.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 September 5, Wien.<ptr target="docs:A088.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 11, Burgos.<ptr target="docs:A081.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            <person xml:id="rincon-antonio-de-ehemaliger-comunero-im-dienste-frankreichs">
+               <persName>Rincón, Antonio de, ehemaliger Comunero, im Dienste Frankreichs</persName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Karl de Bredam), 1524 Juni 13, Stuttgart.<ptr target="docs:A076.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1524 Juli 12, Burgos.<ptr target="docs:A083.xml"/></label>
+                  </event>
+               </listEvent>
+            </person>
+            </listPerson><listPlace/></back></text></TEI>

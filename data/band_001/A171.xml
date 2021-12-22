@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">A171.</title><title type="sub"><persName role="sender">Karl</persName> an <persName role="recipient">Ferdinand</persName>, <date notBefore="1526-01-09" notAfter="1526-01-09" when="1526-01-09">1526 Jänner 9</date>, <placeName>Toledo</placeName>.</title><author>Karl</author></titleStmt><editionStmt><edition><date>2015-11-10</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document </p></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName>Karl</persName><settlement>Toledo</settlement><date notBefore="1526-01-09" notAfter="1526-01-09" when="1526-01-09">1526 Jänner 9</date></correspAction><correspAction type="received"><persName>Ferdinand</persName></correspAction></correspDesc></profileDesc><encodingDesc><appInfo><application ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2021-11-26T08:21:33Z</date><name>Pitzer Doris</name></change></listChange></revisionDesc></teiHeader><text><body><div type="letter_header"><p><hi rend="bold">A171.</hi></p><table rend="rules"><row><cell><hi rend="italic">Karl an Ferdinand.</hi></cell><cell><hi rend="italic">1526 Jänner 9. </hi><placeName resp="Abel_Laura" key="Toledo"><hi rend="italic">Toledo</hi></placeName><hi rend="italic">.</hi></cell></row></table></div><div type="regest_de"><p rend="Regest Deutsch">Dankt für Übersendung des Waffenschmiedes.</p></div><div type="regest_en"><p rend="Regest Englisch">Thanks him for sending the armorer.</p></div><div type="archive_desc"><p rend="Archiv- und Druckvermerk">Wien, St.-A. Hs. B. 595 I. Bl. 15. Kopie.</p><p rend="Archiv- und Druckvermerk">Druck: Familienkorrespondenz Bd. 1, Nr. 171, S. 356.</p></div><div type="transcription"><p>Mon bon frere, j’ai receu voz lettres par ce pourteur et m’avez fait plaisir de m’envoyer l’<index resp="Abel_Laura" key="Waffenschmied">armoieur</index>, lequel sera bien traicté.<hi rend="superscript">1</hi>)</p></div><div type="commentary"><p rend="Kommentar" n="1">Das Folgende gleichlautend mit Abschnitt 2 des Briefes Nr. A170.</p></div></body><back><listPerson/><listPlace><place xml:id="toledo">
+               <placeName>Toledo</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Jänner 9, Toledo.<ptr target="docs:A170.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 November 30, Toledo.<ptr target="docs:A165.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Jänner 9, Toledo.<ptr target="docs:A171.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A150.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Dezember 28, Toledo.<ptr target="docs:A260.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Dezember 18, Toledo.<ptr target="docs:A169.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juli 20, Toledo.<ptr target="docs:A145.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juli 20, Toledo.<ptr target="docs:A145.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 August 14, Toledo.<ptr target="docs:A146.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juni 27, Toledo.<ptr target="docs:A144.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 November 2, Toledo.<ptr target="docs:A159.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Dezember 16, Toledo.<ptr target="docs:A168.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl (Instruktion für Martin de Salinas), 1525 April 2, Innsbruck.<ptr target="docs:A136.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1525 September 1, Tübingen.<ptr target="docs:A149.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Juni 25, Toledo.<ptr target="docs:A143.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1525 September 14, Tübingen.<ptr target="docs:A153.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Februar 2, Toledo.<ptr target="docs:A182.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Februar 2, Toledo.<ptr target="docs:A182.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Februar 2, Toledo.<ptr target="docs:A182.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 Jänner 13, Augsburg.<ptr target="docs:A175.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1526 Februar 19, Toledo.<ptr target="docs:A184.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Mai 4, Toledo.<ptr target="docs:A138.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Mai 6, Toledo.<ptr target="docs:A141.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1525 Oktober 31, Toledo.<ptr target="docs:A158.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            </listPlace></back></text></TEI>

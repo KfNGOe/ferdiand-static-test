@@ -1,0 +1,12 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">*A17.</title><title type="sub"><persName role="sender">Karl</persName> an <persName role="recipient">Ferdinand</persName>, <date notBefore="1522-07-18" notAfter="1522-07-18" when="1522-07-18">1522 Juli 18</date>, <placeName>Santander</placeName>.</title><author>Karl</author></titleStmt><editionStmt><edition><date>2015-08-20</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document </p></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName>Karl</persName><settlement>Santander</settlement><date notBefore="1522-07-18" notAfter="1522-07-18" when="1522-07-18">1522 Juli 18</date></correspAction><correspAction type="received"><persName>Ferdinand</persName></correspAction></correspDesc></profileDesc><encodingDesc><appInfo><application ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2021-11-26T08:21:27Z</date><name>Pitzer Doris</name></change></listChange></revisionDesc></teiHeader><text><body><div type="letter_header"><p><hi rend="bold">*A17.</hi></p><table rend="rules"><row><cell><hi rend="italic">Karl an Ferdinand.</hi></cell><cell><hi rend="italic">1522 Juli 18. </hi><placeName resp="Christopher_F._Laferl" key="Santander"><hi rend="italic">Santander</hi></placeName><hi rend="italic">.</hi></cell></row></table></div><div type="commentary"><p rend="Kommentar">Vgl. Nr. A18.</p><p rend="Kommentar">See no. A18.</p></div></body><back><listPerson/><listPlace><place xml:id="santander">
+               <placeName>Santander</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1522 Juli 18, Santander.<ptr target="docs:A017.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 September 2, Linz.<ptr target="docs:A018.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            </listPlace></back></text></TEI>

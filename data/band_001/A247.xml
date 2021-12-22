@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">A247.</title><title type="sub"><persName role="sender">Ferdinand</persName> an <persName role="recipient">Maria</persName>, <date notBefore="1526-10-25" notAfter="1526-10-25" when="1526-10-25">1526 Oktober 25</date>, <placeName>Wien</placeName>.</title><author>Ferdinand</author></titleStmt><editionStmt><edition><date>2015-11-25</date></edition></editionStmt><publicationStmt><p>unknown</p></publicationStmt><sourceDesc><p>Converted from a Word document </p></sourceDesc></fileDesc><profileDesc><correspDesc><correspAction type="sent"><persName>Ferdinand</persName><settlement>Wien</settlement><date notBefore="1526-10-25" notAfter="1526-10-25" when="1526-10-25">1526 Oktober 25</date></correspAction><correspAction type="received"><persName>Maria</persName></correspAction></correspDesc></profileDesc><encodingDesc><appInfo><application ident="TEI_fromDOCX" version="2.15.0"><label>DOCX to TEI</label></application></appInfo></encodingDesc><revisionDesc><listChange><change><date>2021-11-26T08:21:07Z</date><name>Pitzer Doris</name></change></listChange></revisionDesc></teiHeader><text><body><div type="letter_header"><p><hi rend="bold">A247.</hi></p><table rend="rules"><row><cell><hi rend="italic">Ferdinand an Maria.</hi></cell><cell><hi rend="italic">[1526] Oktober 25. Wien.</hi></cell></row></table></div><div type="regest_de"><p rend="Regest Deutsch">Teilt ihr seine am 23. Oktober erfolgte Wahl zum Kg. von Böhmen mit.</p></div><div type="regest_en"><p rend="Regest Englisch">Informs her of his election to King of Bohemia on October 23.</p></div><div type="archive_desc"><p rend="Archiv- und Druckvermerk">Wien, St.-A. Original, durchwegs von F’s Hand geschrieben; nach Gévays Druck. Vermerkt fünfmal <hi rend="italic">cito.</hi></p><p rend="Archiv- und Druckvermerk">Druck: Gévay 11, S. 21. Familienkorrespondenz Bd. 1, Nr. 247, S. 480-481.</p></div><div type="transcription"><p>M<hi rend="superscript">me</hi>, ma bonne seur, humblement et de bon ceur à vostre bone grace me recomende. M<hi rend="superscript">me</hi>, je vous advertis, comme asteure me sont venues nuveles de mes ambasadeurs qui sont à <index resp="Abel_Laura" key="Böhmen">Boheme</index>, come il a plut à dieu que je suis esté elu pour <index resp="Abel_Laura" key="F, Königswahl Böhmen">roy de Boheme</index> le 23<hi rend="superscript">e</hi> iour de ce mois de otobre unanimement<hi rend="superscript">a</hi>) quambien que il a eu beaucop de contradicion de beaucop de parties, toutesfois, non obstant il a plut à dieu de le mener à bone fin, come aves icy desus entendu, et pour ce que ie suis asuré que, m<hi rend="superscript">me</hi>, seres bien aissé de savoir lesd. nouveles, vous ay vouloir advertir et ausy me ofrir que de cela et la resta que dieu m’a donné me trouveres prest tousiours pour vous servir et asister, comme ie vous ay plusiours fois escript. Et atant fais fin, priant le createur donner à vous, m<hi rend="superscript">me</hi>, ma bonne seur, ma bone vie et longue.</p><p>De <placeName resp="Abel_Laura" key="Wien">Viene</placeName>, le 25<hi rend="superscript">e</hi> d’octobre, à 4 eures après-mydi.</p><p>Vostre bon et humble frere Ferdinandus.</p></div><div type="commentary"><p rend="Kommentar">a) Original <hi rend="italic">unanimemet</hi></p></div></body><back><listPerson/><listPlace><place xml:id="wien">
+               <placeName>Wien</placeName>
+               <listEvent>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A102.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 August 14, Wien.<ptr target="docs:A085.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria, 1524 Oktober 2, Wien.<ptr target="docs:A093.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A104.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 Dezember 31, Wien.<ptr target="docs:A261.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ludwig II. an Ferdinand, 1522 Dezember 10, Prag.<ptr target="docs:A025.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria (Instruktion für Johann von Lamberg), 1526 September 17, Linz.<ptr target="docs:A236.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 5, Wien.<ptr target="docs:A106.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Maria an Ferdinand, 1526 November 24, Preßburg.<ptr target="docs:A253.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Karl an Ferdinand, 1521 September 1, Brüssel.<ptr target="docs:A016.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 Oktober 28, Wien.<ptr target="docs:A250.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Oktober 14, Wien.<ptr target="docs:A095.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 September 5, Wien.<ptr target="docs:A088.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1526 September 22, Linz.<ptr target="docs:A239.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 November 1, Wien.<ptr target="docs:A105.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Oktober 8, Wien.<ptr target="docs:A096.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 November 1, Wien.<ptr target="docs:A103.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 September 30, Wien.<ptr target="docs:A091.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 November 5, Wien.<ptr target="docs:A107.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 18, Linz.<ptr target="docs:A237.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 September 18, Linz.<ptr target="docs:A237.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1523 Jänner 27, Nürnberg.<ptr target="docs:A026.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1524 Oktober 14, Wien.<ptr target="docs:A097.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria, 1526 Oktober 25, Wien.<ptr target="docs:A247.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Maria, 1524 August 18, Wien.<ptr target="docs:A087.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Karl, 1522 September 2, Linz.<ptr target="docs:A018.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1526 November 24, Wien.<ptr target="docs:A254.xml"/></label>
+                  </event>
+                  <event type="mentioned">
+                     <label>Ferdinand an Margareta, 1524 September 30, Wien.<ptr target="docs:A092.xml"/></label>
+                  </event>
+               </listEvent>
+            </place>
+            </listPlace></back></text></TEI>
