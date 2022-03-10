@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project basedir="." name="tei2html">
+        
+    <taskdef resource="net/sf/antcontrib/antcontrib.properties"/>
+    
     <property name="index" value="./data/meta/about.xml"/>
     <property name="target" value="./html"/>
     <property name="target_xml" value="./html/xml-view"/>
@@ -51,4 +54,5 @@
         <include name="*.html"/>
         <replacetoken> xmlns=""</replacetoken>
     </replace>
+    
 </project>
